@@ -1,2 +1,3 @@
-# git-test
-git mantığını anlamak
+﻿# git-test
+
+### git mantığını anlamak
